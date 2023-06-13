@@ -7,5 +7,5 @@ endDate: 07/16/2023
 tag: PLN Event
 dateTBD: false
 eventHosts:
-  - ftc|ftc-logo.png
+  - Network Goods|ftc-logo.png
 ---
