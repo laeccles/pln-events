@@ -1,5 +1,5 @@
 ---
-eventName: "FIL Brussels alongside EthCC"
+eventName: "FIL Brussels"
 eventDescription: ""
 eventType: "Conference"
 location: "Brussels, Belgium"
